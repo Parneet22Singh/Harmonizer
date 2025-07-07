@@ -1,0 +1,1 @@
+.An audio harmonizer that not only converts the live recorder audio to desired language from a plethora of choices, but also generates a new audio, with user specified tone (informal, formal, neutral) and syntax of the intial audio, with suitable accent. 
